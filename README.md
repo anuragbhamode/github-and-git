@@ -11,7 +11,7 @@ to check the status of the repo
 
 git status and press enter 
 
-#git commands to add and commit 
+# git commands to add and commit 
 
 if you want add all files changes just type
 
